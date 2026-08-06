@@ -33,19 +33,16 @@ let scale=1;
 
 const textList=[
 
-"Yakin nggak mau satu ronde?",
+"takut kalahh?",
 
-"Cuma sebentar kok 😄",
+"takut di bantai yaa",
 
-"Lagi seru nih.",
+"ayoo maen",
 
-"Ayo gas dulu.",
+"yahh takut kalah pasti",
 
-"Nanti keburu ditinggal lobby.",
+"ayolaa bot",
 
-"UNO udah nunggu 😎",
-
-"Klik yang kiri aja."
 
 ];
 
@@ -547,7 +544,7 @@ yesBtn.addEventListener("dblclick",()=>{
     createConfetti();
 
     message.innerHTML=
-    "🔥 Gaskeun, meja UNO sudah siap!";
+    "siapp siapp di bantai yaaa";
 
 });
 
